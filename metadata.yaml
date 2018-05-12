@@ -1,0 +1,28 @@
+_repo: The-Knack-of-Managing_39761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Urquhart, Lewis K.
+    gutenberg_agent_id: '40210'
+    url: http://www.gutenberg.org/2009/agents/40210
+  - agent_name: Watson, Herbert
+    gutenberg_agent_id: '40211'
+    url: http://www.gutenberg.org/2009/agents/40211
+description: ''
+gutenberg_issued: '2012-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Business'
+- !lcc 'HF'
+- !lcsh 'Personnel management'
+title: The Knack of Managing
+url: http://www.gutenberg.org/ebooks/39761
